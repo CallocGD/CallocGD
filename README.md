@@ -15,7 +15,3 @@ You will see a lot of my code/ code snippets and hacks in here
 ## Favorite Geometry Dash Eldermods
 - Sirhadoken
 - Robtop (I like watching him roast people)
-
-## Favorite Foods
-- Plain Hamburgers
-- Mountain Dew
