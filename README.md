@@ -5,3 +5,12 @@ I'm planning to make a workaround server for reaching boomlings.com for anyone t
 I am a Veteran Daily Chatter of gd and have recently come back as a programmer and skilled hacker / CyberSecurity Profressional.
 You will see a lot of my code/ code snippets and hacks in here
 
+
+# Things about me
+
+## Least Favorite Geometry Dash Eldermod
+- Heda
+
+## Favorite Foods
+- Plain Hamburgers
+- Mountain Dew
