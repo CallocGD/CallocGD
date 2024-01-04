@@ -8,8 +8,13 @@ You will see a lot of my code/ code snippets and hacks in here
 
 # Things about me
 
-## Least Favorite Geometry Dash Eldermod
+## Least Favorite Geometry Dash Eldermods
 - Heda
+- Sharkarie
+
+## Favorite Geometry Dash Eldermods
+- Sirhadoken
+- Robtop (I like watching him roast people)
 
 ## Favorite Foods
 - Plain Hamburgers
