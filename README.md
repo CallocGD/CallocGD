@@ -7,12 +7,3 @@ You will see a lot of my code/ code snippets and hacks in here
 <a href="https://discord.gg/dz8xBwRa"><img src=https://img.shields.io/badge/Discord_Server-3670a0?style=for-the-badge&logo=discord&logoColor=white></a>
 </p>
 
-# Things about me
-
-## Least Favorite Geometry Dash Eldermods
-- Heda
-- Sharkarie
-
-## Favorite Geometry Dash Eldermods
-- Sirhadoken
-- Robtop (I like watching him roast people)
